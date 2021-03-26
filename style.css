@@ -1,0 +1,6 @@
+.brd{
+    border:solid mediumvioletred;
+    padding:15px 70px;
+    background-color:chartreuse;
+    border-radius: 10px;
+}
